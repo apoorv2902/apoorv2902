@@ -49,4 +49,4 @@ I am experienced in:
 <!--  SQL -->
 <img align="left" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />        
 
-...and much more!
+...and much more! 
