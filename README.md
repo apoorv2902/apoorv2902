@@ -21,13 +21,7 @@ I am experienced in:
     <img src="https://img.shields.io/badge/kaggle-%23E4405F.svg?&style=for-the-badge&logo=kaggle&logoColor=white" />        
   </a>&nbsp;&nbsp;
   
-  <hr />
-<div align="center">
-  <img align="center" src="https://github-readme-stats-kappa-sandy.vercel.app/api?username=apoorv2902&show_icons=true&theme=radical&hide_border=true">
-  <br/>
-    <br />
-  <img align="center" src="https://github-readme-stats-kappa-sandy.vercel.app/api/top-langs?username=apoorv2902&layout=compact&show_icons=true&theme=radical&hide_border=true" />
-</div>
+
 
 ### Languages and Tools:
 
